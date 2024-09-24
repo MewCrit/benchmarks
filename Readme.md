@@ -70,3 +70,17 @@ dotnet run --configuration Release -- --filter *FliteringList*
 
 
 <br/>
+
+
+## Run String Formatting
+
+```
+dotnet run --configuration Release -- --filter *StringFormatting*
+```
+
+## Results
+
+<img src="./ss/string_formatting.png">
+
+
+<br/>
