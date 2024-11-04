@@ -84,3 +84,13 @@ dotnet run --configuration Release -- --filter *StringFormatting*
 
 
 <br/>
+
+## Run Mapping
+
+```
+dotnet run --configuration Release -- --filter *Mapping*
+```
+
+## Results
+
+<img src="./ss/mapping.png">
